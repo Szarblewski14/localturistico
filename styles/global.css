@@ -18,3 +18,7 @@
     --color-pink: #E5245E;
     --color-purple: #591B98;
 }
+
+body{
+    font-family: "Inter", serif;
+}
