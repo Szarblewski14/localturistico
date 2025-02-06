@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --bg-dafult: #F5F4F0;
+    --border-primary: #D9D9D9;
+
+    --tx-primary: #1B1B1B;
+    --tx-secondary: #333333;
+    --tx-tertiary: #696969;
+    --tx-headline: #E1624F;
+
+    --color-blue: #0C51A7;
+    --color-orange: #E95E10;
+    --color-pink: #E5245E;
+    --color-purple: #591B98;
+}
