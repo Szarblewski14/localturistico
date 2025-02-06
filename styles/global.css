@@ -22,3 +22,17 @@
 body{
     font-family: "Inter", serif;
 }
+
+p{
+    color: var(--tx-headline);
+}
+span{
+    color: var(--tx-secondary);
+}
+
+h1, h2, h3{
+    color: var(--tx-primary);
+}
+strong{
+    color: var(--color-blue);
+}
